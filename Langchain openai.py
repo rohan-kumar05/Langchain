@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 ## Integrate our code OpenAI API
 import os
 from constants import openai_key
